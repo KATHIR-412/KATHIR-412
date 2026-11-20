@@ -2,7 +2,7 @@
 
 I am **Kathir**, a 1st-year **B.Tech (AIML)** student at **Saveetha Engineering College**.
 
-**KATHIR-412/KATHIR-412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KATHIR-412/KATHIR-412** is a ✨ _special_ ✨ repository because its *Updates of my life*
 
 - 🌱 I’m currently learning **Python**, **HTML**, and **EDM**
 - 👯 I’m a **hackathon enthusiast** looking to collaborate on cool projects
